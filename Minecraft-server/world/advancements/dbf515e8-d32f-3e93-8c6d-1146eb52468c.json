@@ -1,0 +1,27 @@
+{
+  "1_splatus:ultris/root": {
+    "criteria": {
+      "c1": "2024-04-15 09:34:44 -0500"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2024-04-15 09:34:42 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-04-15 09:34:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_peaks": "2024-04-15 09:34:45 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
